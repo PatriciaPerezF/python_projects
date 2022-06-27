@@ -1,6 +1,5 @@
 import random
 
-
 def run():
     numero_aleatorio = random.randint(1,100)
     numero_elegido = int(input("""¡Adivina el numero!
