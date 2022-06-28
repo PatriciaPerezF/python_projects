@@ -8,6 +8,7 @@ to hack a password by brute force.
 * `genera_patron.py` : Enter a number, and that number corresponds to the number of rows that should be generated.
 * `generador_contrasena` : This algorithm helps you to create strong passwords, containing letters, numbers and symbols.
 * `lorem_generator.py` : Enter a number, and that number corresponds to the number of Lorem ipsum paragraphs to display.
+* `menu_banco.py`: When executing it, it will show a bank menu with different options, You must choose the number of the action you want to perform and follow the instructions.
 * `numeros_primos` : Enter a number to find out if it is prime.
 * `palindromo`: Enter a word and find out if it is a palindrome.
 * `piedra_papel_tijera.py` : Classic rock paper scissors game. The user must choose what to play and the algorithm will inform him the computer's choice and the result of the battle.
